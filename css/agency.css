@@ -69,7 +69,6 @@ section h3.section-subheading {
 
 
 
-
 .btn {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
@@ -136,6 +135,8 @@ img::-moz-selection {
 #mainNav .navbar-brand {
   color: #fed136;
   font-family: 'Montserrat';
+  font-weight: bold;
+
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
